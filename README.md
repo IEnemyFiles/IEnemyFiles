@@ -50,7 +50,7 @@
   <a href="https://www.tiktok.com/@vipgamings" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=My+Discord:+enemysaga+Or+-E-#4990!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=My+Discord:+enemysaga!" alt="Typing SVG">
 </p>
 ---
 
